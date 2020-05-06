@@ -4,7 +4,7 @@
 
 **Date:** Fall 2020
 
-This repository contains the statistical analysis section for our Calgary Property Assessment project. The entire statistical analysis is conducted through RStudio, showcasing a combination:
+This repository contains the statistical analysis section for our Calgary Property Assessment project. The entire statistical analysis is conducted through RStudio, showcasing a combination of:
 
 - Simple linear models
 - Assumption testing
