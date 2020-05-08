@@ -4,7 +4,11 @@
 
 **Date:** Fall 2020
 
-This repository contains the statistical analysis section for our Calgary Property Assessment project. The entire statistical analysis is conducted through RStudio, showcasing a combination of:
+### What's in this repository?
+
+This repository contains the statistical analysis section for our Calgary Property Assessment project, which is conducted in RStudio. The goal is to see if there are any notable differences in property assessment prices from changes attributed to oil price change, population growth, and crime rate in Calgary.
+
+### Procedures
 
 - Simple linear models
 - Assumption testing
